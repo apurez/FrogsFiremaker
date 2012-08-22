@@ -17,7 +17,7 @@ public class Cons {
 	
 	public static final Tile[] BONFIRE_TILE = new Tile[] { new Tile(3149, 3474,0) };
 	public static final int FIRE_SPIRIT_ID[] = { 15451 };
-	public static final int[] Logs = {/* Log IDs Here */};
+	public static final int[] Logs = {1517};
 	public static final int Banker[] = { 3293 };
 	public static final int BONFIRE_ID[] = { 70758, 70761, 70764 };
 	public static final Tile pLocation = Players.getLocal().getLocation();
